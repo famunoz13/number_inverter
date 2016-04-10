@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Franco Muñoz"]
   spec.email         = ["famunoz13@uc.cl"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Provides a simple method to invert lexicographically a number.}
+  spec.description   = %q{Provides a simple method to invert lexicographically a number.}
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
